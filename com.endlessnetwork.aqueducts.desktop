@@ -4,6 +4,6 @@ Comment=Aqueducts is a game that will teach you the basics of programming while 
 Type=Application
 Categories=Game;LearnToCode;
 Keywords=game;programming;puzzle;casual;
-Exec=com.endless_network.aqueducts.sh
+Exec=com.endlessnetwork.aqueducts.sh
 Terminal=false
 Icon=com.endlessnetwork.aqueducts
