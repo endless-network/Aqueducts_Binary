@@ -2,7 +2,7 @@
 Name=Aqueducts
 Comment=Aqueducts is a game that will teach you the basics of programming while having a lot of fun. Bring back the water to the village in this epic adventure.
 Type=Application
-Categories=Game;LearnToCode;
+Categories=Game;X-LearnToCode;
 Keywords=game;programming;puzzle;casual;
 Exec=com.endlessnetwork.aqueducts.sh
 Terminal=false
