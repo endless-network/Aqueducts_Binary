@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.aqueducts.desktop</id>
+  <name>Aqueducts</name>
+  <summary>Aqueducts is a puzzle game that teaches you the basics of programming.</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <launchable type="desktop-id">com.endlessnetwork.aqueducts.desktop</launchable>
+  <project_license>LicenseRef-proprietary</project_license>
+  <developer_name>Endless Network</developer_name>
+  <content_rating type="oars-1.1">
+  </content_rating>
+  <updatecontact>nan_at_endlessnetwork.com</updatecontact>
+  <description>
+    <p>
+      Aqueducts is a game that will teach you the basics of programming while having a lot of fun. Bring back the water to the village in this epic adventure!
+    </p>    
+  </description>
+  <screenshots>
+   <screenshot type="default"><caption>A brave hackable world</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot1.png</image></screenshot>
+   <screenshot><caption>Repair the code, change the world</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot2.png</image></screenshot>
+   <screenshot><caption>Bring the water back to the village and have fun!!!</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot3.png</image></screenshot>
+  </screenshots>
+<releases><release version="1.0.0" date="2019-04-02" /></releases>
+</component>
