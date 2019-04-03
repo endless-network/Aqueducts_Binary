@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
-  <id>com.endlessnetwork.aqueducts.desktop</id>
+  <id>com.endlessnetwork.aqueducts</id>
   <name>Aqueducts</name>
   <summary>Aqueducts is a puzzle game that teaches you the basics of programming.</summary>
   <metadata_license>CC0-1.0</metadata_license>
