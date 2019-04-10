@@ -10,7 +10,7 @@
     <category>LearnToCode</category>
     <category>Game</category>
   </categories>
-  <developer_name>Endless Network</developer_name>
+  <developer_name>Endless Studios</developer_name>
   <url type="homepage">http://thethirdterminal.com</url>
   <content_rating type="oars-1.1">
   </content_rating>
@@ -21,9 +21,30 @@
     </p>    
   </description>
   <screenshots>
-   <screenshot type="default"><caption>A brave hackable world</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot1.png</image></screenshot>
-   <screenshot><caption>Repair the code, change the world</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot2.png</image></screenshot>
-   <screenshot><caption>Bring the water back to the village and have fun!!!</caption><image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot3.png</image></screenshot>
-  </screenshots>
+   <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot6.png</image>
+    </screenshot>
+    <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot5.png</image>
+    </screenshot>
+    <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot4.png</image>
+    </screenshot>
+    <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot3.png</image>
+    </screenshot>
+    <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot2.png</image>
+    </screenshot>
+    <screenshot type="default">
+     <caption> </caption>
+     <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot1.png</image>
+    </screenshot>
+    </screenshots>
 <releases><release version="1.0.0" date="2019-04-02" /></releases>
 </component>
