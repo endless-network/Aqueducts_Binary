@@ -11,7 +11,7 @@
     <category>Game</category>
   </categories>
   <developer_name>Endless Studios</developer_name>
-  <url type="homepage">http://thethirdterminal.com</url>
+  <url type="homepage">https://terminaltwo.com/home</url>
   <content_rating type="oars-1.1">
   </content_rating>
   <updatecontact>nan_at_endlessnetwork.com</updatecontact>
@@ -46,5 +46,5 @@
      <image>https://github.com/endless-network/Aqueducts_Binary/raw/master/aqueducts_screenshot1.jpg</image>
     </screenshot>
     </screenshots>
-<releases><release version="1.2.1" date="2019-05-21" /></releases>
+<releases><release version="1.2.2" date="2019-09-09" /></releases>
 </component>
