@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.endlessnetwork.aqueducts</id>
   <name>Aqueducts</name>
-  <summary>An immersive puzzle adventure game where you hack your way to saving the day!</summary>
+  <summary>Hack your way to saving the day</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <launchable type="desktop-id">com.endlessnetwork.aqueducts.desktop</launchable>
   <project_license>LicenseRef-proprietary</project_license>
@@ -13,13 +13,28 @@
   </categories>
   <developer_name>Endless Studios</developer_name>
   <url type="homepage">https://terminaltwo.com/home</url>
-  <content_rating type="oars-1.1">
-  </content_rating>
+  <content_rating type="oars-1.1" />
   <updatecontact>nan_at_endlessnetwork.com</updatecontact>
   <description>
-    <p>
-      All the water has disappeared from your village and it's up to you to save the day! Go on an adventure to connect the water pipes and bring water back to your village. Solve puzzles and hack your way through 15 levels of fun and challenging islands. You may discover that you'll learn some things along the way...
-    </p>    
+    <p>All the water has disappeared from your village and it's up to you to save the day! Go on an adventure to connect the water pipes and bring water back to your village. Solve puzzles and hack your way through 15 levels of fun and challenging islands. You may discover that you'll learn some things along the way…</p>
+    <p>Level up your coding skills by learning and practicing variables, conditionals, loops, debugging, JavaScript, math, step by step, booleans, logical sequencing, and more.</p>
+    <p>The goal on each level is to connect all the pipes together. When near a pipe, “hack” it to rotate and connect it to other pipes. Once this is done, a door appears. To reach the door, the character may have to hack other objects like platforms and bridges to change their position and scale. This may include changing water between ice, liquid, and steam to access different areas. The water must be in liquid form for the pipes to work. If the character ever ends up in a bad place, they will be reset to the nearest surface with no bad consequences.</p>
+
+    <p>Important controls:</p>
+    <ul>
+      <li>Move Mateo: Tap the mouse or trackpad on the screen</li>
+      <li>Restart Button: Restart the level from the beginning</li>
+      <li>Pause Button: Open options to change audio/continue level/return to level selection</li>
+      <li>Eye Button: Click the eye in the bottom right to highlight hackable objects</li>
+      <li>Token Button: See which code tokens you have used in the current level</li>
+      <li>Zoom In/Out: Scroll the mouse wheel</li>
+    </ul>
+    <p>Hacking objects:</p>
+    <ul>
+      <li>Right-click on white highlighted objects to see and change their code.</li>
+      <li>Mateo needs to be close enough to the object.​ Red highlight means an object is too far.</li>
+      <li>While hacking, any text with a box can be changed by tapping the box and selecting an option.</li>
+    </ul>
   </description>
   <screenshots>
    <screenshot type="default">
