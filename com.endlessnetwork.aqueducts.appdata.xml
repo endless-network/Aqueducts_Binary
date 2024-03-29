@@ -7,9 +7,9 @@
   <launchable type="desktop-id">com.endlessnetwork.aqueducts.desktop</launchable>
   <project_license>LicenseRef-proprietary</project_license>
   <categories>
-    <category>LearnToCode</category>
     <category>Game</category>
     <category>Education</category>
+    <category>ComputerScience</category>
   </categories>
   <developer_name>Endless Studios</developer_name>
   <url type="homepage">https://terminaltwo.com/home</url>
