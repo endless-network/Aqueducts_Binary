@@ -13,8 +13,9 @@
   </categories>
   <developer_name>Endless Studios</developer_name>
   <url type="homepage">https://terminaltwo.com/home</url>
-  <content_rating type="oars-1.1" />
-  <updatecontact>nan_at_endlessnetwork.com</updatecontact>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">mild</content_attribute>
+  </content_rating>
   <description>
     <p>All the water has disappeared from your village and it's up to you to save the day! Go on an adventure to connect the water pipes and bring water back to your village. Solve puzzles and hack your way through 15 levels of fun and challenging islands. You may discover that you'll learn some things along the way…</p>
     <p>Level up your coding skills by learning and practicing variables, conditionals, loops, debugging, JavaScript, math, step by step, booleans, logical sequencing, and more.</p>
