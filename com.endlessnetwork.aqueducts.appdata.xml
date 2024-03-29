@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.endlessnetwork.aqueducts</id>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
   <name>Aqueducts</name>
   <summary>Hack your way to saving the day</summary>
   <metadata_license>CC0-1.0</metadata_license>
